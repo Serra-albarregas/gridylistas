@@ -117,6 +117,7 @@ public class SceneManager {
         }
     }
 
+    @SuppressWarnings("exports")
     public Scene getScene(SceneID sceneID){
         if (scenes.containsKey(sceneID)){
             return scenes.get(sceneID);

@@ -5,8 +5,6 @@ import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.util.Calendar;
-import java.util.Date;
 
 /**
  * La clase <code>App</code> es la aplicación principal que extiende la clase <code>Application</code> de JavaFX.
@@ -31,13 +29,13 @@ public class App extends Application {
         stage.setTitle("Grid y Listas");
         
         // Establece el icono de la ventana
-        //stage.getIcons().add(new Image(App.class.getResource("images/icon.png").toExternalForm()));
+        stage.getIcons().add(new Image(App.class.getResource("images/logo.png").toExternalForm()));
         
         // Obtiene la instancia del SceneManager
         SceneManager sm = SceneManager.getInstance();
         
         // Inicializa el SceneManager con el stage y una ruta de estilos
-        sm.init(stage);
+        sm.init(stage, "style");
         
         // Configura las escenas con identificadores
         sm.setScene(SceneID.ADD, "AddView");
