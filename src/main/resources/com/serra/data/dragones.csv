@@ -1,0 +1,52 @@
+nombre,terreno,castillo,edad
+Furia Nocturna,AIRE,Castillo Niebla,150
+Brisa Celeste,AIRE,Castillo Niebla,120
+Roca Férrea,TIERRA,Fortaleza Rocosa,200
+Escama de Plata,AGUA,Palacio Coral,90
+Tempestad,AIRE,Castillo Niebla,180
+Draco Infernal,TIERRA,Fortaleza Rocosa,300
+Acuavelo,AGUA,Palacio Coral,110
+Trueno Alado,AIRE,Castillo del Viento,160
+Llama Viva,TIERRA,Torre del Fénix,220
+Neón Marino,AGUA,Palacio Coral,75
+Ciclón,AIRE,Castillo del Viento,140
+Granito,TIERRA,Fortaleza Rocosa,260
+Marea Azul,AGUA,Cueva Abisal,100
+Tifón,AIRE,Castillo del Viento,135
+Terrón,TIERRA,Torre del Fénix,245
+Coralina,AGUA,Palacio Coral,85
+Ráfaga,AIRE,Castillo Niebla,130
+Fosforescente,AGUA,Cueva Abisal,115
+Sombra Terrestre,TIERRA,Fortaleza Rocosa,280
+Bruma,AIRE,Castillo del Viento,125
+Chispa Marina,AGUA,Palacio Coral,98
+Sismo,TIERRA,Torre del Fénix,195
+Aliento Azul,AIRE,Castillo Niebla,170
+Cascada,AGUA,Cueva Abisal,88
+Volcán,TIERRA,Fortaleza Rocosa,310
+Huracán,AIRE,Castillo del Viento,190
+Río Profundo,AGUA,Palacio Coral,105
+Montañés,TIERRA,Fortaleza Rocosa,275
+Nube Rápida,AIRE,Castillo Niebla,145
+Espuma,AGUA,Cueva Abisal,95
+Piedra Rúnica,TIERRA,Torre del Fénix,250
+Tornado,AIRE,Castillo del Viento,160
+Velo de Agua,AGUA,Palacio Coral,92
+Tierra Sagrada,TIERRA,Fortaleza Rocosa,305
+Viento Cortante,AIRE,Castillo del Viento,155
+Salpicón,AGUA,Cueva Abisal,80
+Eco Terrestre,TIERRA,Torre del Fénix,215
+Altostratus,AIRE,Castillo Niebla,142
+Escama Brillante,AGUA,Palacio Coral,108
+Fulgor de Roca,TIERRA,Fortaleza Rocosa,290
+Zafiro Volador,AIRE,Castillo del Viento,150
+Perla Marina,AGUA,Cueva Abisal,86
+Ruina Antigua,TIERRA,Torre del Fénix,270
+Relámpago,AIRE,Castillo Niebla,175
+Mar Abierto,AGUA,Palacio Coral,102
+Colmillo de Tierra,TIERRA,Fortaleza Rocosa,265
+Torbellino,AIRE,Castillo del Viento,168
+Ala Líquida,AGUA,Cueva Abisal,97
+Corazón de Roca,TIERRA,Torre del Fénix,295
+Estrato,AIRE,Castillo Niebla,138
+Espina Marina,AGUA,Palacio Coral,90
